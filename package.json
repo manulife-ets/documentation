@@ -51,7 +51,7 @@
     "js-yaml": "^3.10.0",
     "lodash": "^4.17.10",
     "mdast-util-inject": "^1.1.0",
-    "micromatch": "^3.1.5",
+    "micromatch": "^4.0.6",
     "mime": "^2.2.0",
     "module-deps-sortable": "^5.0.1",
     "parse-filepath": "^1.0.2",
